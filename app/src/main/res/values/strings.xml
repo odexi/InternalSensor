@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternalSensor</string>
+    <string name="sig_motion">Sig motion</string>
+    <string name="sig_motion_auto_disabled">Nicely moved!!!</string>
+    <string name="sig_motion_enabled">Move me!</string>
+    <string name="no_sig_motion">No sig motion</string>
+</resources>
